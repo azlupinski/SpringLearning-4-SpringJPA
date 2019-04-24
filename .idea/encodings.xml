@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/01-EntityDefinition" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/02-MappingConfiguration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/03-SpringJPACRUD" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/04-SpringJPAOneToOne" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/05-SpringJPAOneToManyAndManyToOne" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/06-SpringJPAManyToMany" charset="UTF-8" />
+  </component>
+</project>

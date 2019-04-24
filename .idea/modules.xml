@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-EntityDefinition//01-EntityDefinition.iml" filepath="$PROJECT_DIR$/01-EntityDefinition//01-EntityDefinition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-MappingConfiguration//02-MappingConfiguration.iml" filepath="$PROJECT_DIR$/02-MappingConfiguration//02-MappingConfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-SpringJPACRUD//03-SpringJPACRUD.iml" filepath="$PROJECT_DIR$/03-SpringJPACRUD//03-SpringJPACRUD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-SpringJPAOneToOne//04-SpringJPAOneToOne.iml" filepath="$PROJECT_DIR$/04-SpringJPAOneToOne//04-SpringJPAOneToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-SpringJPAOneToManyAndManyToOne//05-SpringJPAOneToManyAndManyToOne.iml" filepath="$PROJECT_DIR$/05-SpringJPAOneToManyAndManyToOne//05-SpringJPAOneToManyAndManyToOne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-SpringJPAManyToMany//06-SpringJPAManyToMany.iml" filepath="$PROJECT_DIR$/06-SpringJPAManyToMany//06-SpringJPAManyToMany.iml" />
+    </modules>
+  </component>
+</project>
